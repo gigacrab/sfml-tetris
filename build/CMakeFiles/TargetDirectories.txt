@@ -1,0 +1,3 @@
+/home/littlecrabby/sfml-tetris/build/CMakeFiles/main.dir
+/home/littlecrabby/sfml-tetris/build/CMakeFiles/edit_cache.dir
+/home/littlecrabby/sfml-tetris/build/CMakeFiles/rebuild_cache.dir

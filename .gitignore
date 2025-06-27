@@ -1,0 +1,3 @@
+sfml-tetris/build/*
+
+!sfml-tetris/build/bin/
