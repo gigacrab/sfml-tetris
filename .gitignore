@@ -1,3 +1,5 @@
 sfml-tetris/build/*
 
+sfml-tetris/.vscode
+
 !sfml-tetris/build/bin/
