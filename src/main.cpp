@@ -192,7 +192,6 @@ int main(){
 				{
 					for (int fy = v; fy > 0; fy--)
 						field[fy * fieldWidth + fx] = field[(fy - 1) * fieldWidth + fx];
-					field[fx] = 0;
 				}
 
 			completedLines.clear();
